@@ -3,5 +3,15 @@ This was there I want to reference them later on:
 A free, fully responsive HTML5 + CSS3 site template designed by <a href="https://twitter.com/ajlkn">@ajlkn</a> for <a href="https://html5up.net">HTML5 UP</a><br />
 						and released for free under the <a href="https://html5up.net/license">Creative Commons license</a>.
 
+
+
 The linkedin and github links work great! It would be cool to link to more academic URLs in the future
+
+I lost my : after email, connect and cv at bottom of portfolio page so add those back
+
+the option to scroll doesn't work but I want it to.
+
+the url href associated with each image needs to go and I need to make the href the 
+same for the title and the learn more (unless I want to specify otherwise when they 
+get published or something)
 
